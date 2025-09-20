@@ -1,0 +1,11 @@
+---
+# :books: 1. Metodologias Ageis - SCRUM, Kanban, XP, Lean
+---
+## :information_source: Objetivo da disciplina
+Capacitar os alunos para aplicar metodologias ágeis, focando no desenvolvimento iterativo, adaptativo e na entrega contínua de valor ao cliente em projetos de software.
+
+---
+## :mortar_board: Certificado de Conclusão da Disciplina
+![certificado](./Certificado%20de%20Conclusao%20da%20Disciplina.pdf)
+
+---

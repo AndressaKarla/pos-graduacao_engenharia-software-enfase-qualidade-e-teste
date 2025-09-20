@@ -1,0 +1,11 @@
+---
+# :books: 2. Teste de Software
+---
+## :information_source: Objetivo da disciplina
+Capacitar os alunos a aplicar técnicas eficazes de teste de software, garantindo a qualidade e o desempenho dos produtos em todas as etapas do ciclo de desenvolvimento.
+
+---
+## :mortar_board: Certificado de Conclusão da Disciplina
+![certificado](./Certificado%20de%20Conclusao%20da%20Disciplina.pdf)
+
+---
